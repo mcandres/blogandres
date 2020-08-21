@@ -1,4 +1,4 @@
-[About Me](about.md)             [Educacion](eduacacion.md)             [blog](blog.md)
+[About Me](about.md)             [Educación](educacion.md)             [blog](blog.md)
 
 
 # hola
