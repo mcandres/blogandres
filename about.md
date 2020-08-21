@@ -1,3 +1,3 @@
 <h1> About Me </h1>
 
-info de mi crvs
+Resumen de mi que verga
